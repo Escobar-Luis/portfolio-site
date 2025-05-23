@@ -25,3 +25,6 @@ dist-ssr
 
 # Reference source code
 source-reference/
+
+# Cursor rules
+.cursor-rules
